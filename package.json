@@ -39,7 +39,7 @@
   "dependencies": {
     "eth-lightwallet": "^2.4.3",
     "ethereum-web-token": "^0.1.7",
-    "node-uuid": "^1.4.7",
-    "superagent": "^2.2.0"
+    "superagent": "^2.2.0",
+    "uuid": "^3.0.0"
   }
 }
